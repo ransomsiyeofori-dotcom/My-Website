@@ -1,4 +1,4 @@
-  body { font-family: Monospace;
+to  body { font-family: Monospace;
          overflow-x: hidden; 
          width: 100%;}
 @media(max-width: 768px) { body {
@@ -133,7 +133,9 @@ h2 { position: relative;
 }
 
 .add:active {
-  transform: scale(1.1);}
+  transform: scale(1.1);
+  box-shadow: 0 0 10px;}
+
 @media(max-width: 768px) { .image2 { border-radius: 10px;
   position: relative;
   top: 20px;
