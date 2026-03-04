@@ -160,7 +160,7 @@ h2 { position: relative;
          color: white;
          background-color: gold;
          border-radius: 10px;
-         height: 400px; }}
+         height: 480px; }}
 @media(max-width: 768px) { .guy { 
       font-size: 15px;}}
 @media(max-width: 768px) { .pp { 
